@@ -1,0 +1,8 @@
+../Src/MCAL/STK/STK_program.c:38:6:STK_VidInit	4	static
+../Src/MCAL/STK/STK_program.c:63:6:STK_VidSetBusyWait	16	static
+../Src/MCAL/STK/STK_program.c:82:6:STK_VidSetIntervalSingle	16	static
+../Src/MCAL/STK/STK_program.c:106:6:STK_VidSetIntervalPeriodic	16	static
+../Src/MCAL/STK/STK_program.c:126:6:STK_VidStopTimer	4	static
+../Src/MCAL/STK/STK_program.c:138:10:STK_U32GetElapsedTime	4	static
+../Src/MCAL/STK/STK_program.c:145:10:STK_U32GetRemaininigTime	4	static
+../Src/MCAL/STK/STK_program.c:153:6:SysTick_Handler	8	static

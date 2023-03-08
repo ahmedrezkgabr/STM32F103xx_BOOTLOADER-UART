@@ -1,0 +1,6 @@
+../Src/MCAL/NVIC/NVIC_program.c:25:6:NVIC_VidEnableInterrupt	24	static
+../Src/MCAL/NVIC/NVIC_program.c:35:6:NVIC_VidDisableInterrupt	24	static
+../Src/MCAL/NVIC/NVIC_program.c:45:6:NVIC_VidSetPendingFlag	24	static
+../Src/MCAL/NVIC/NVIC_program.c:54:6:NVIC_VidClrPendingFlag	24	static
+../Src/MCAL/NVIC/NVIC_program.c:63:9:NVIC_U8GetActiveFlag	24	static
+../Src/MCAL/NVIC/NVIC_program.c:77:6:NVIC_VidSetInterruptPriority	24	static

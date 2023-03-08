@@ -1,0 +1,3 @@
+../Src/MCAL/FPEC/FPEC_program.c:25:6:FPEC_VidEraseAppArea	16	static
+../Src/MCAL/FPEC/FPEC_program.c:35:6:FPEC_VidFlashPageErase	16	static
+../Src/MCAL/FPEC/FPEC_program.c:64:6:FPEC_VidFlashWrite	32	static

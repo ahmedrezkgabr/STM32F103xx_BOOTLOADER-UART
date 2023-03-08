@@ -1,0 +1,3 @@
+../Src/MCAL/RCC/RCC_program.c:27:6:RCC_VidInit	16	static
+../Src/MCAL/RCC/RCC_program.c:165:6:RCC_VidEnablePeripheralClock	16	static
+../Src/MCAL/RCC/RCC_program.c:183:6:RCC_VidDisablePeripheralClock	16	static

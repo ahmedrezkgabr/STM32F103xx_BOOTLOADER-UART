@@ -1,0 +1,3 @@
+../Src/MCAL/GPIO/GPIO_program.c:28:6:GPIO_VidSetPinMode	16	static
+../Src/MCAL/GPIO/GPIO_program.c:218:6:GPIO_VidSetPinValue	16	static
+../Src/MCAL/GPIO/GPIO_program.c:316:9:GPIO_U8GetPinValue	24	static

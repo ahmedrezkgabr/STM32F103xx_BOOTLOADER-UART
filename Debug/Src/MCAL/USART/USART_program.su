@@ -1,0 +1,6 @@
+../Src/MCAL/USART/USART_program.c:27:6:USART1_IRQHandler	8	static
+../Src/MCAL/USART/USART_program.c:38:6:USART1_VidInit	16	static
+../Src/MCAL/USART/USART_program.c:226:6:USART1_VidTransmitAsynchronous	16	static
+../Src/MCAL/USART/USART_program.c:237:6:USART1_VidReceiveAsynchronous	16	static
+../Src/MCAL/USART/USART_program.c:244:6:USART1_VidTransmitSynchronous	16	static
+../Src/MCAL/USART/USART_program.c:257:9:USART1_U8ReceiveSynchronous	24	static
